@@ -20,4 +20,4 @@ Run the following code for depth map enhancement.
 
 More test sets and evaluation code can be found [here](https://github.com/Wang-xjtu/G2-MonoDepth).
 
-The training code is coming soon.
+The training code is an example of train_full_aim16.py.
