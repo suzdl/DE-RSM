@@ -1,5 +1,5 @@
 # DE-RSM
-A depth map enhancement model. We train it within the data supervision of low-quality depth GT and the color-invariant structure supervision of RGB, in order to not overfit the low-quality depth GT.
+A depth map enhancement model. We train it within the relatively large-scale data supervision of low-quality depth GT and the color-invariant structure supervision of RGB, in order to not overfit the low-quality depth GT.
 
 ![image](https://github.com/dangdang17/DE-RSM/assets/78062148/da8c9d28-7367-48f2-904f-81159ac3ecfa)
 
